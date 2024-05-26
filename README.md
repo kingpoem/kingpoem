@@ -5,7 +5,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 39 mins   █████████████████████████   100.00 %
+Markdown      2 hrs 41 mins   █████████████████████████   99.89 %
+QML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
