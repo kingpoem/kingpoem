@@ -5,9 +5,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 6 mins    ████████████████████████▓   98.47 %
-Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Markdown   2 hrs 6 mins    █████████████████████████   99.44 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
