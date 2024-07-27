@@ -2,19 +2,16 @@
 
 ![kingpoem's Github stats](https://github-readme-stats.vercel.app/api?username=kingpoem&show_icons=true)
 
-  <!--START_SECTION:waka-->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingpoem&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-```txt
-Markdown   4 hrs 40 mins   ███████████████████▒░░░░░   77.12 %
-CMake      32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-YAML       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Python     20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
+[![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d)
 
-<!--END_SECTION:waka-->
-<!--
-**kingpoem/kingpoem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+START_SECTION:waka 
+END_SECTION:waka -->
+
+
+<!-- **kingpoem/kingpoem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
