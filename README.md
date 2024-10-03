@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+nice+day!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+nice+day!;We're+beautiful+like+diamonds+in+the+sky!;)
 
 
 - 🌱 I’m currently learning ML and modern c++ programming.
@@ -26,5 +26,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingpoem/kingpoem/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kingpoem/kingpoem/output/github-contribution-grid-snake.svg">
 </picture>
-
-
