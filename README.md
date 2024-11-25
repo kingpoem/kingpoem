@@ -7,10 +7,10 @@
 
 - Here is my blog: [kingpoem 的王国🏰](https://kingpoem.github.io/)
 
+[![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d)
 
 [![Kingpoem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingpoem&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingpoem&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
