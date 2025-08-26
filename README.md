@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+nice+day!;We're+beautiful+like+diamonds+in+the+sky!;)
 
-- 🌱 I’m currently learning HDL and Rust.
 - Here is my blog: [kingpoem 的王国🏰](https://kingpoem.github.io/)
 - BTW I Use ARCH.
 
