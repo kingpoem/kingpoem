@@ -3,7 +3,7 @@
 - Here is my blog: [kingpoem 的王国🏰](https://kingpoem.github.io/)
 - BTW I Use ARCH.
 
-[![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d)
+<!-- [![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d) -->
 
 [![Kingpoem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingpoem&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +17,7 @@
 <!-- ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=kingpoem&show_icons=true&theme=algolia) -->
 
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingpoem&theme=github_dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingpoem&theme=github_dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingpoem/kingpoem/output/github-contribution-grid-snake-dark.svg">
