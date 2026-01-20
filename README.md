@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+nice+day!;We're+beautiful+like+diamonds+in+the+sky!;)
 
 - Here is my blog: [kingpoem 的王国🏰](https://kingpoem.github.io/)
-- BTW I Use ARCH.
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d) -->
 
